@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Evernote/static/css/main.65553a91.chunk.css",
+    "main.js": "/Evernote/static/js/main.670a9511.chunk.js",
+    "main.js.map": "/Evernote/static/js/main.670a9511.chunk.js.map",
+    "runtime~main.js": "/Evernote/static/js/runtime~main.e6c878c4.js",
+    "runtime~main.js.map": "/Evernote/static/js/runtime~main.e6c878c4.js.map",
+    "static/js/2.55ef5313.chunk.js": "/Evernote/static/js/2.55ef5313.chunk.js",
+    "static/js/2.55ef5313.chunk.js.map": "/Evernote/static/js/2.55ef5313.chunk.js.map",
+    "index.html": "/Evernote/index.html",
+    "precache-manifest.4aa0eea24f89b290215e9dd8fd13ba4c.js": "/Evernote/precache-manifest.4aa0eea24f89b290215e9dd8fd13ba4c.js",
+    "service-worker.js": "/Evernote/service-worker.js",
+    "static/css/main.65553a91.chunk.css.map": "/Evernote/static/css/main.65553a91.chunk.css.map"
+  }
+}
